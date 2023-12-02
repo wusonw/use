@@ -8,3 +8,5 @@
 | file | note |
 |   :---:   |     :---:     |
 | [vscode.code-profile](vscode.code-profile) |  vscode profile |
+| [vscode profile online](https://vscode.dev/profile/github/82608e983832c6808cb26deec536e798)|vscode.dev for profile|
+
